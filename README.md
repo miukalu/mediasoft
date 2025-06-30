@@ -1,8 +1,7 @@
 # mediasoft
 •	Задание 1
- ![image](https://github.com/user-attachments/assets/f0dd8e83-8cd9-4220-aee7-36842d4b7856)
+![image](https://github.com/user-attachments/assets/f0dd8e83-8cd9-4220-aee7-36842d4b7856)
 ![image](https://github.com/user-attachments/assets/be6f63d2-ddf3-4020-af48-e27fdb057ca8)
-
 •	Задание 2
 1.	Создание и управление списками покупок
 2.	Работа с товарами (добавление/удаление, отметки, комментарии, редакция)
@@ -37,9 +36,8 @@
 ![image](https://github.com/user-attachments/assets/eb9d3c0d-04c1-4f84-8469-e9bc6a84f081)
 ![image](https://github.com/user-attachments/assets/48619dfc-f28e-4577-82f3-b3cc01b1049f)
 ![image](https://github.com/user-attachments/assets/cce81a08-302f-48e8-89ec-43f32dfd6a14)
-
 •	Задание 4
-  ![image](https://github.com/user-attachments/assets/ebdbeed9-f09e-4391-8f15-4f300e0bd9f8)
+![image](https://github.com/user-attachments/assets/ebdbeed9-f09e-4391-8f15-4f300e0bd9f8)
 ![image](https://github.com/user-attachments/assets/32112e3b-7e80-45a6-b4a4-042b4c26535b)
 https://www.figma.com/design/G8zxKRSyhnP480wHAXNrRM/Mediasoft?node-id=0-1&t=L7C4tanN38atq4L1-1
 •	Задание 5
@@ -85,7 +83,7 @@ https://www.figma.com/design/G8zxKRSyhnP480wHAXNrRM/Mediasoft?node-id=0-1&t=L7C4
   ]
 }
 Данные о покупках хранятся в двух базах данных: локальной и глобальной, что обеспечивает поддержку оф-флайн-режима и синхронизацию. Синхронизация между базами выполня-ется с использованием пакетного эндпоинта POST /api/lists/{list_id}/sync, где сервер обновляет глобальную БД и возвращает новые метки времени.
- ![image](https://github.com/user-attachments/assets/933ea7cd-6ac8-4557-9b1e-ba778dccea1b)
+![image](https://github.com/user-attachments/assets/933ea7cd-6ac8-4557-9b1e-ba778dccea1b)
 •	Задание 6
 Сложности:
 Удаление списка одним пользователем, когда второй его редактирует
